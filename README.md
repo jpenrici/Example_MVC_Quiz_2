@@ -1,1 +1,2 @@
-# Example_MVC_Quiz_2
+# Example_MVC_Quiz
+Example of using the MVC model in Java: Application QUIZ.
