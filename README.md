@@ -1,2 +1,6 @@
-# Example_MVC_Quiz
+# Example_MVC_Quiz_2
 Example of using the MVC model in Java: Application QUIZ.
+
+# Display
+![Login](https://github.com/jpenrici/Example_MVC_Quiz_2/blob/master/display/display_login.png)
+![Test](https://github.com/jpenrici/Example_MVC_Quiz_2/blob/master/display/display_quiz.png)
